@@ -1,4 +1,4 @@
-"# Retro Remake - Handout
+# Retro Remake - Handout
 
 ### Points
 80
